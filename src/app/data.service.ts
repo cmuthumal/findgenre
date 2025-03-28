@@ -7,7 +7,7 @@ import { catchError } from 'rxjs/operators';
   providedIn: 'root',
 })
 export class DataService {
-  private apiUrl = 'https://770e-34-56-222-176.ngrok-free.app';
+  private apiUrl = 'https://e4bf-34-86-72-31.ngrok-free.app';
 
   constructor(private http: HttpClient) {}
 
